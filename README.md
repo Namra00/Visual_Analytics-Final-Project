@@ -8,7 +8,7 @@ We can see what people in each state are more likely to look for on the website 
 
 ## Visualization
 
-* [Lending Tree Data Visualization](https://nipun03.github.io/VA_Project/) - Here you can find the visualization that we worked on
+* [Lending Tree Data Visualization](https://namra00.github.io/Lending_Tree_Visualization/) - Here you can find the visualization that we worked on
 
 ## Developers
 
